@@ -33,6 +33,7 @@
 <div align="center">
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+    <br>
     <span>Node.js</span>
   </div>
 </div>
