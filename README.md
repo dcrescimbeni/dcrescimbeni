@@ -80,11 +80,11 @@ Algorithms & Data Structures || styled-compontents || Netlify || Test-driven dev
 <h3>E-commerce: SNikers :athletic_shoe:</h3>
 2022 || 6 developers, 2 weeks: an e-commerce site to sell shoes, where my main contribution was to the back-end code. We used React, Bootstrap, CSS-Modules for the front-end, and Node.js, Express, PostgreSQL, Mocha, and Chai. In addition, we used GitHub as a source-control tool and the Scrum methodology through Trello to deliver the sprint’s objectives.
 
-**Live site**: https://flimtmdb.netlify.app/
-
 **GitHub link**: https://github.com/dcrescimbeni/e-commerce
 
 <h3>Flim! TMDB :movie_camera:</h3>
 2022 || Solo developer, 80 hours: Movie database SPA that allows searching, viewing details, and saving movies and TV shows. It uses the TMDB public API for films and shows details, a PostgreSQL database to store user information and favorites, Passport for user authentication, custom logic for authorization, Mocha and Chai for unit testing, React and styled-components for the front-end, Node and Express for the server, and Sequelize as an ORM.
+
+**Live site**: https://flimtmdb.netlify.app/
 
 **GitHub link**: https://github.com/dcrescimbeni/TMDB
