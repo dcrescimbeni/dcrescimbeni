@@ -92,4 +92,5 @@ Algorithms & Data Structures || styled-compontents || Netlify || Test-driven dev
 ---
 
 <h2>Some stats</h2>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dcrescimbeni&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+[![Github Stats](https://github-readme-streak-stats.herokuapp.com?user=dcrescimbeni&theme=dark)](https://git.io/streak-stats)
