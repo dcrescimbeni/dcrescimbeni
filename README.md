@@ -61,3 +61,12 @@
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="40" height="40"/>
 </div>
+
+<div >
+React || Node || Express || Sequelize || Docker || JavaScript || CSS3 || HTML5 || Redux || Mocha || Jest || Figma || Socket.io || Heroku || Jira
+</div>
+
+<h3>Other skills</h3>
+<div >
+Algorithms & Data Structures || styled-compontents || Netlify || Test-driven development || Passport || Agile - Scrum 
+</div>
