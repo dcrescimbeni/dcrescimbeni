@@ -70,3 +70,21 @@ React || Node || Express || Sequelize || Docker || JavaScript || CSS3 || HTML5 |
 <div >
 Algorithms & Data Structures || styled-compontents || Netlify || Test-driven development || Passport || Agile - Scrum 
 </div>
+
+---
+
+<h2>Projects</h2>
+<h3>Dashboard for Swiss Medical Group :health_worker:</h3>
+2022 || 4 developers, 4 weeks: an admin panel that allows Swiss Medical employees to view and edit client’s information, perform specific tech-support tasks like password reset and re-send verification links. For the front-end, we used React, Redux, styled-components, and formik. We used Microsoft SQLServer for the database, Node.js, and Express for the server and implemented tests with Mocha and Chai for the back-end. Finally, we used Scrum through a Jira board to coordinate the team’s tasks.
+
+<h3>E-commerce: SNikers :athletic_shoe:</h3>
+2022 || 6 developers, 2 weeks: an e-commerce site to sell shoes, where my main contribution was to the back-end code. We used React, Bootstrap, CSS-Modules for the front-end, and Node.js, Express, PostgreSQL, Mocha, and Chai. In addition, we used GitHub as a source-control tool and the Scrum methodology through Trello to deliver the sprint’s objectives.
+
+**Live site**: https://flimtmdb.netlify.app/
+
+**GitHub link**: https://github.com/dcrescimbeni/e-commerce
+
+<h3>Flim! TMDB :movie_camera:</h3>
+2022 || Solo developer, 80 hours: Movie database SPA that allows searching, viewing details, and saving movies and TV shows. It uses the TMDB public API for films and shows details, a PostgreSQL database to store user information and favorites, Passport for user authentication, custom logic for authorization, Mocha and Chai for unit testing, React and styled-components for the front-end, Node and Express for the server, and Sequelize as an ORM.
+
+**GitHub link**: https://github.com/dcrescimbeni/TMDB
