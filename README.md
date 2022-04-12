@@ -31,6 +31,21 @@
 
 <h2>Languages, libraries and tools</h2>
 <div align="center">
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+    <br>
+    <span>Node.js</span>
+  </div>
+  <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+    <br>
+    <span>Node.js</span>
+  </div>
+  <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
+    <br>
+    <span>Node.js</span>
+  </div>
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
     <br>
