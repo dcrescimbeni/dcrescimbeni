@@ -69,6 +69,7 @@ React || Node || Express || Sequelize || Docker || JavaScript || CSS3 || HTML5 |
 <div >
 Algorithms & Data Structures || styled-compontents || Netlify || Test-driven development || Passport || Agile - Scrum
 </div>
+
 ---
 
 <h2>Projects</h2>
